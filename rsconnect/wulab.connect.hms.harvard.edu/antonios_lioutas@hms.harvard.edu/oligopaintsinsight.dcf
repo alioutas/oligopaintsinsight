@@ -1,0 +1,12 @@
+name: oligopaintsinsight
+title: OligopaintsInsight
+username: antonios_lioutas@hms.harvard.edu
+account: antonios_lioutas@hms.harvard.edu
+server: wulab.connect.hms.harvard.edu
+hostUrl: https://wulab.connect.hms.harvard.edu/__api__
+appId: 55
+bundleId: 188
+url: https://wulab.connect.hms.harvard.edu/OligopaintsInsight/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
